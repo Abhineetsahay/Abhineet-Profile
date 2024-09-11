@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolioby-abhineet.vercel.app/](https://portfolioby-abhineet.vercel.app/)
 
-- 💬 Ask me about **MERN Stact and DSA**
+- 💬 Ask me about **MERN Stack and DSA**
 
 - 📫 MY E-mail:- **abhineetsahay@gmail.com**
 
