@@ -8,7 +8,7 @@
 - 📫 MY E-mail:- **abhineetsahay@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-![Visitor Count](https://komarev.com/ghpvc/?username=abhineetsahay&label=Profile%20views&color=0e75b6&style=flat)
+[Visitor Count](https://komarev.com/ghpvc/?username=abhineetsahay&label=Profile%20views&color=0e75b6&style=flat)
 <p align="left">
 <a href="https://linkedin.com/in/https://github.com/abhineetsahay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/abhineetsahay" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://www.linkedin.com/in/abhineet-sahay-17a39428b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.linkedin.com/in/abhineet-sahay-17a39428b/" height="30" width="40" /></a>
