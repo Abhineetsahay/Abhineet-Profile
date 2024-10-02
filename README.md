@@ -55,5 +55,3 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhineetsahay&show_icons=true&locale=en&layout=compact" alt="abhineetsahay" /></p>
-
-<p><img align="center" src="https://komarev.com/ghpvc/?username=abhineetsahay&label=Profile%20views&color=0e75b6&style=flat" alt="abhineetsahay" /></p>
